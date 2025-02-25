@@ -1,0 +1,8 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/entrepreneur/startups/edit/[id]/page": "app/entrepreneur/startups/edit/[id]/page.js",
+  "/entrepreneur/investors/page": "app/entrepreneur/investors/page.js",
+  "/entrepreneur/startups/[id]/page": "app/entrepreneur/startups/[id]/page.js",
+  "/entrepreneur/investors/[id]/page": "app/entrepreneur/investors/[id]/page.js",
+  "/auth/signin/page": "app/auth/signin/page.js"
+}
