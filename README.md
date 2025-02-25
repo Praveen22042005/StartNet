@@ -39,18 +39,8 @@ We harness the power of AI to connect visionary entrepreneurs with forward-think
 - **Frontend:** React.js, Next.js, Tailwind CSS  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
-- **AI Models:** OpenAI, Custom ML Models  
-- **Hosting & Deployment:** Vercel, AWS  
-
----
-
-## 🎨 UI/UX Design  
-
-StartNet features an intuitive and modern design to enhance the user experience. The interface is optimized for both entrepreneurs and investors, ensuring seamless navigation and accessibility.  
-
-- **Clean & Minimal UI** for easy navigation  
-- **Dark & Light Mode** for user preference  
-- **Mobile-Responsive** design for all devices  
+- **AI Models:** Azure OpenAI  
+- **Hosting & Deployment:** Azure, Vercel  
 
 ---
 
