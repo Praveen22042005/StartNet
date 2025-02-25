@@ -2,8 +2,6 @@
 
 ![StartNet Logo](https://github.com/user-attachments/assets/d60fde2f-537d-4900-8b79-3fa9caf1d5a2) 
 
-**Transforming Startup Investments with AI**  
-
 StartNet is an innovative platform designed to connect visionary entrepreneurs with forward-thinking investors using AI-powered risk assessment and intelligent matching. It bridges the gap between startups and investors, ensuring a seamless funding process while mitigating risks.
 
 ---
@@ -87,29 +85,3 @@ StartNet features an intuitive and modern design to enhance the user experience.
 
 ---
 
-## 📜 Future Roadmap  
-
-🔹 **AI-Powered Pitch Deck Generator** – Automatically generate professional pitch decks.  
-🔹 **Blockchain-Based Startup Verification** – Ensure startup credibility with blockchain.  
-🔹 **Real-Time Market Trends & Predictions** – AI-powered insights on market trends.  
-🔹 **Community & Mentorship Features** – Connect with experts and mentors in the industry.  
-
----
-
-## 💡 Why StartNet?  
-
-- **AI-Powered Matching** – Intelligent startup-investor pairing.  
-- **Data-Driven Decisions** – AI-generated risk assessment and financial insights.  
-- **Seamless User Experience** – Smooth navigation for both investors and startups.  
-- **Fraud Prevention** – AI-driven startup credibility verification.  
-
----
-
-## 📄 Installation  
-
-To set up StartNet locally, follow these steps:  
-
-### 1️⃣ Clone the Repository  
-```sh
-git clone https://github.com/your-username/startnet.git
-cd startnet
