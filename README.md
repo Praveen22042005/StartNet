@@ -1,7 +1,5 @@
 # 🚀 StartNet  
 
-![StartNet Logo](public/logo.png) 
-
 StartNet is an innovative platform designed to connect visionary entrepreneurs with forward-thinking investors using AI-powered risk assessment and intelligent matching. It bridges the gap between startups and investors, ensuring a seamless funding process while mitigating risks.
 
 ---
