@@ -1,6 +1,6 @@
 # 🚀 StartNet  
 
-(![StartNet Logo](https://github.com/user-attachments/assets/d60fde2f-537d-4900-8b79-3fa9caf1d5a2))  
+![StartNet Logo](https://github.com/user-attachments/assets/d60fde2f-537d-4900-8b79-3fa9caf1d5a2) 
 
 **Transforming Startup Investments with AI**  
 
