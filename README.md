@@ -46,10 +46,10 @@ We harness the power of AI to connect visionary entrepreneurs with forward-think
 
 ## 📷 Screenshots  
 
-![StartNet Dashboard](public/dashboard.png)  
+![Entrepreneur Dashboard](https://github.com/user-attachments/assets/210b9770-43ba-4e65-8842-cc2f37e88f35)
 *StartNet Dashboard – Intuitive and user-friendly interface.*  
 
-![Investor Portal](public/investor_portal.png)  
+![Investor Dashboard](https://github.com/user-attachments/assets/52ce05aa-2059-4004-90c3-8db580c89231)
 *Investor Portal – AI-powered investment recommendations.*  
 
 ---
