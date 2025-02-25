@@ -1,6 +1,6 @@
 # 🚀 StartNet  
 
-![StartNet Logo](https://github.com/user-attachments/assets/d60fde2f-537d-4900-8b79-3fa9caf1d5a2) 
+![StartNet Logo](public/logo.png) 
 
 StartNet is an innovative platform designed to connect visionary entrepreneurs with forward-thinking investors using AI-powered risk assessment and intelligent matching. It bridges the gap between startups and investors, ensuring a seamless funding process while mitigating risks.
 
@@ -8,18 +8,13 @@ StartNet is an innovative platform designed to connect visionary entrepreneurs w
 
 ## 🌍 Demo  
 
-🔗 **Live Demo**: [StartNet Demo](https://startnet-demo.vercel.app)  
+Check out our live demo [here](http://your-demo-link.com).
 
 ---
 
 ## 📌 About StartNet  
 
-StartNet was developed as part of the **Techpreneur Hackathon 2024**, with a mission to revolutionize startup funding and investment decisions. By leveraging AI, StartNet streamlines the investment process, providing data-driven insights and automating risk assessments.
-
-### 🏆 Hackathon Details  
-- **Event:** Techpreneur Hackathon 2024  
-- **Theme:** AI-Powered Startup Investment  
-- **Goal:** Build a smart investment platform for startups and investors  
+We harness the power of AI to connect visionary entrepreneurs with forward-thinking investors, paving the way for a revolution in startup growth.
 
 ---
 
@@ -59,29 +54,60 @@ StartNet features an intuitive and modern design to enhance the user experience.
 
 ---
 
-## 🚀 How It Works  
-
-### For Startups:  
-1. **Sign Up & Create a Profile** – Add business details, funding goals, and key information.  
-2. **Connect with Investors** – AI-powered matching helps you find the right investors.  
-3. **Track Fundraising Progress** – Manage and monitor your funding journey in real time.  
-4. **Receive AI Insights** – Get recommendations to improve your investment appeal.  
-
-### For Investors:  
-1. **Sign Up & Set Preferences** – Define your investment preferences and industry focus.  
-2. **Browse Startups** – Get AI-driven recommendations on potential investments.  
-3. **Analyze Risk & Data** – Use AI-powered risk analysis before making a decision.  
-4. **Invest & Track Growth** – Manage your startup portfolio and monitor performance.  
-
----
-
 ## 📷 Screenshots  
 
-![StartNet Dashboard](path/to/dashboard.png)  
+![StartNet Dashboard](public/dashboard.png)  
 *StartNet Dashboard – Intuitive and user-friendly interface.*  
 
-![Investor Portal](path/to/investor_portal.png)  
+![Investor Portal](public/investor_portal.png)  
 *Investor Portal – AI-powered investment recommendations.*  
 
 ---
 
+## 👥 Our Team  
+
+We are a team of passionate students from Saveetha Engineering College, working together to bridge the gap between entrepreneurs and investors.
+
+### Team Members:
+- **Praveen BV**  
+  - Role: Full Stack Developer  
+  - Email: bvpraveenvignesh2005@gmail.com  
+  - [LinkedIn](https://www.linkedin.com/in/praveen-bv-918830250/)  
+  - [GitHub](https://github.com/Praveen22042005)  
+
+- **Lokesh Rahul VV**  
+  - Role: Full Stack Developer  
+  - Email: lokeshrahulvl11@gmail.com  
+  - [LinkedIn](https://www.linkedin.com/in/lokesh-rahul-066ab7277/)  
+  - [GitHub](https://github.com/lokeshrahulv)  
+
+- **Vasanthamukilan M**  
+  - Role: UI/UX Designer  
+  - Email: vasanthamukilan75@gmail.com  
+  - [LinkedIn](https://www.linkedin.com/in/vasanthamukilan-m-11644b279/)  
+  - [GitHub](https://github.com/Vasanthamukilan)  
+
+- **Raja R**  
+  - Role: Research & Development  
+  - Email: raja.rrasu@gmail.com  
+  - [LinkedIn](https://www.linkedin.com/in/raja-r-819299323/)  
+  - [GitHub](https://github.com/Raja8334)  
+
+---
+
+## 📞 Contact Info  
+
+- **Email:** bvpraveenvignesh2005@gmail.com  
+- **Phone:** +91 6379061046  
+- **Address:** Saveetha Engineering College, Chennai, Tamil Nadu  
+
+---
+
+## 🚀 Techpreneur Hackathon 2024  
+
+StartNet was developed as part of the Techpreneur Hackathon, focusing on creating innovative solutions for entrepreneurial growth and economic development.
+
+---
+
+© 2024 StartNet. All rights reserved.  
+Techpreneur Hackathon 2024 | Saveetha Engineering College × GIDY AI
