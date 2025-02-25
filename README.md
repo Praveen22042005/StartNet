@@ -6,7 +6,7 @@ StartNet is an innovative platform designed to connect visionary entrepreneurs w
 
 ## 🌍 Demo  
 
-Check out our live demo [here](http://your-demo-link.com).
+Check out our live demo [here]([http://your-demo-link.com](https://startnet-ebh4dphzgxcsakhk.southindia-01.azurewebsites.net/)).
 
 ---
 
