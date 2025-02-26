@@ -91,11 +91,11 @@ We are a team of passionate students from Saveetha Engineering College, working 
 
 ---
 
-## 🚀 Techpreneur Hackathon 2024  
+## 🚀 Techpreneur Hackathon 2025
 
 StartNet was developed as part of the Techpreneur Hackathon, focusing on creating innovative solutions for entrepreneurial growth and economic development.
 
 ---
 
-© 2024 StartNet. All rights reserved.  
+© 2025 StartNet. All rights reserved.  
 Techpreneur Hackathon 2024 | Saveetha Engineering College × GIDY AI
