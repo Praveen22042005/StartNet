@@ -6,7 +6,7 @@ StartNet is an innovative platform designed to connect visionary entrepreneurs w
 
 ## 🌍 Demo  
 
-Check out our live demo [here](https://startnet-six.vercel.app/)
+Check out our live demo [here](https://startnet-web.vercel.app/)
 
 ---
 
